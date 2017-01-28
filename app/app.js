@@ -21,9 +21,7 @@ app.controller('MainCtrl', function ($scope, $element) {
       { id: 'MT', text: 'Montana' },
       { id: 'NE', text: 'Nebraska' },
       { id: 'NM', text: 'New Mexico' },
-      { id: 'ND', text: 'North Dakota' },
-      { id: 'UT', text: 'Utah' },
-      { id: 'WY', text: 'Wyoming' }
+     
     ]},
     { text: 'Central Time Zone', children: [
       { id: 'AL', text: 'Alabama' },
