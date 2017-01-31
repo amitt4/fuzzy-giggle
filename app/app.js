@@ -22,6 +22,7 @@ app.controller('MainCtrl', function ($scope, $element) {
       { id: 'NE', text: 'Nebraska' },
       { id: 'NM', text: 'New Mexico' },
       { id: 'JK', text: 'Jammu & Kashmir'}
+      {id: 'HP', text: 'Himachal Pradesh'}
 
      
     ]},
