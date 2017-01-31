@@ -21,10 +21,10 @@ app.controller('MainCtrl', function ($scope, $element) {
       { id: 'MT', text: 'Montana' },
       { id: 'NE', text: 'Nebraska' },
       { id: 'NM', text: 'New Mexico' },
-      { id: 'JK', text: 'Jammu & Kashmir'}
-      {id: 'HP', text: 'Himachal Pradesh'}
+      { id: 'JK', text: 'Jammu & Kashmir'},
+      {id: 'HP', text: 'Himachal Pradesh'},
+      { id: 'MP', text: 'MAdhya Pradesh'}    
 
-     
     ]},
     { text: 'Central Time Zone', children: [
       { id: 'AL', text: 'Alabama' },
@@ -40,8 +40,7 @@ app.controller('MainCtrl', function ($scope, $element) {
       { id: 'OK', text: 'Oklahoma' },
       { id: 'SD', text: 'South Dakota' },
       { id: 'TX', text: 'Texas' },
-      { id: 'TN', text: 'Tennessee' },
-      { id: 'WI', text: 'Wisconsin' }
+     
     ]},
     { text: 'Eastern Time Zone', children: [
       { id: 'CT', text: 'Connecticut' },
