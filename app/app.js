@@ -41,7 +41,7 @@ app.controller('MainCtrl', function ($scope, $element) {
      
     ]},
     { text: 'Eastern Time Zone', children: [
-      
+      { id: 'GA', text: 'Georgia' },
       { id: 'IN', text: 'Indiana' },
       { id: 'ME', text: 'Maine' },
       { id: 'MD', text: 'Maryland' },
