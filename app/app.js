@@ -26,6 +26,7 @@ app.controller('MainCtrl', function ($scope, $element) {
       { id: 'MP', text: 'MAdhya Pradesh'}  
       { id: 'AL', text: 'Alaska'}
 
+
     ]},
     { text: 'Central Time Zone', children: [
       { id: 'AL', text: 'Alabama' },
